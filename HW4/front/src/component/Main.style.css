@@ -1,0 +1,12 @@
+.main-class{
+  background-color:darkblue;
+  color:white;
+  border: 3px solid transparent;
+  text-align: center; 
+}
+.content{
+    margin-left:10%;
+    margin-right:10%;
+    margin-top:15px;
+}
+

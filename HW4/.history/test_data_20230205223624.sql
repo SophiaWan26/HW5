@@ -1,0 +1,2 @@
+
+INSERT INTO books(id, author_id, title, pub_year, genre) VALUES ('3', '1', 'My Fairest Lady', '1866', 'romance')
